@@ -2,7 +2,6 @@
 require_once __DIR__ . '/../models/Task.php';
 require_once __DIR__ . '/../models/Category.php';
 
-// Ensure user is logged in
 if (!isset($_SESSION['user_id'])) {
     header("Location: index.php?action=login");
     exit;

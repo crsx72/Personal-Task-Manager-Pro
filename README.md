@@ -1,6 +1,6 @@
 Personal Task Manager Pro
 
-A fully-featured task management web application built using PHP (MVC), MySQL, and PDO.
+A simple task management web application built using PHP (MVC), MySQL, and PDO.
 Users can register, log in, and manage their tasks with categories, priorities, due dates, reports, and more.
 
 ##  Features
@@ -35,7 +35,7 @@ Users can register, log in, and manage their tasks with categories, priorities, 
 2. Start Apache and MySQL in XAMPP Control Panel
 3. Clone this repository
 ```bash
-git clone https://github.com/crsx72/personal_task_manager_pro.git
+git clone https://github.com/crsx72/Personal-Task-Manager-Pro.git
 ```
 4. Move project folder to C:\xampp\htdocs
 5. Create the Database:
