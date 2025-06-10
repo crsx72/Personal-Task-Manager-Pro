@@ -1,4 +1,4 @@
-Personal Task Manager Pro
+# Personal Task Manager Pro
 
 A simple task management web application built using PHP (MVC), MySQL, and PDO.
 Users can register, log in, and manage their tasks with categories, priorities, due dates, reports, and more.
